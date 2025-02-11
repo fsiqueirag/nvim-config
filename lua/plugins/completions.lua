@@ -3,6 +3,9 @@ return {
 		"hrsh7th/cmp-nvim-lsp",
 	},
 	{
+		"github/copilot.vim",
+	},
+	{
 		"L3M0N4D3/LuaSnip",
 		dependencies = {
 			"saadparwaiz1/cmp_luasnip",
